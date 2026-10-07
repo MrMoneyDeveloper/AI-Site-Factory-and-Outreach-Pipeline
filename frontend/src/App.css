@@ -451,30 +451,3 @@ button:disabled {
     justify-content: flex-start;
   }
 }
-<<<<<<< HEAD
-=======
-.scraper-box {
-  background: #f4f4f4;
-  padding: 20px;
-  border-radius: 12px;
-  margin-bottom: 20px;
-}
-
-.scraper-box h3 {
-  margin-bottom: 10px;
-}
-
-.scraper-box input {
-  width: 100%;
-  padding: 12px;
-  margin-bottom: 10px;
-}
-
-.scraper-box button {
-  padding: 12px 18px;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-}
-}
->>>>>>> 6a495c38f6fc2d2f486f4622a72839cc0923131e

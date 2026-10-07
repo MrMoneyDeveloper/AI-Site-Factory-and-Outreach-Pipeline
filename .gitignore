@@ -7,3 +7,6 @@ frontend/build/
 backend/__pycache__/
 *.pyc
 pipeline-check.log
+
+.venv/
+__pycache__/
