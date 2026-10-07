@@ -5,7 +5,7 @@ Date: 7 October 2026 (Africa/Johannesburg)
 ## Ownership and Git
 
 - Owner: `MrMoneyDeveloper`.
-- Working repository: `https://github.com/MrMoneyDeveloper/AI-Site-Factory-and-Outreach-Pipeline` (private).
+- Working repository: `https://github.com/MrMoneyDeveloper/AI-Site-Factory-and-Outreach-Pipeline` (public).
 - Default working branch: `main`.
 - `origin` is the owned copy; `upstream` retains the BusiM5 source repository.
 - Source history starts this handover at `3d695c4`. Its remote was pulled with `--ff-only` and was already current.
